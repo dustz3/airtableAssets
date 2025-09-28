@@ -7,7 +7,7 @@
   
   # 環境變數（用於建置時）
   [build.environment]
-    NODE_VERSION = "18"
+    NODE_VERSION = "18.20.4"
 
 # 重定向規則（用於 SPA 支援）
 [[redirects]]
